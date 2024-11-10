@@ -1,0 +1,31 @@
+.red{
+    background-color: rgb(195, 1, 1);
+    height: 480px;
+    width: 800px;
+}
+.blue{
+    width: 800px;
+    height:240px;
+    background-color: rgb(31, 31, 136);
+    position: absolute;
+    top:175px;
+}
+p{
+    color:white;
+    text-align: center;
+    font-size:60px;
+}
+.white{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    top:20px;
+    left:300px;
+}
+.text{
+    
+    font-size: 70px;
+    text-align: center;
+}
